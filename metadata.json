@@ -1,0 +1,5 @@
+{
+  "name": "SliceMaster 640",
+  "description": "A specialized image splitter tool designed for e-commerce and web layouts. It automatically resizes images to 640px width and splits them into standard template segments (m_1 through m_6) with customizable split points for the body and footer.",
+  "requestFramePermissions": []
+}
